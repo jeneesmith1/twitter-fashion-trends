@@ -1,4 +1,5 @@
-# Using Twitter's API to find random tweets
+# Using Twitter's API to find random tweets :bird:
+
 
 Sometimes it can be nice to see some random tweets, right? 
 
